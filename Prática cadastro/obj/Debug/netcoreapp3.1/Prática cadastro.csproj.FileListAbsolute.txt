@@ -1,0 +1,13 @@
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\bin\Debug\netcoreapp3.1\Prática cadastro.exe
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\bin\Debug\netcoreapp3.1\Prática cadastro.deps.json
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\bin\Debug\netcoreapp3.1\Prática cadastro.runtimeconfig.json
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\bin\Debug\netcoreapp3.1\Prática cadastro.runtimeconfig.dev.json
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\bin\Debug\netcoreapp3.1\Prática cadastro.dll
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\bin\Debug\netcoreapp3.1\Prática cadastro.pdb
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\obj\Debug\netcoreapp3.1\Prática cadastro.csprojAssemblyReference.cache
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\obj\Debug\netcoreapp3.1\Prática cadastro.AssemblyInfoInputs.cache
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\obj\Debug\netcoreapp3.1\Prática cadastro.AssemblyInfo.cs
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\obj\Debug\netcoreapp3.1\Prática cadastro.csproj.CoreCompileInputs.cache
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\obj\Debug\netcoreapp3.1\Prática cadastro.dll
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\obj\Debug\netcoreapp3.1\Prática cadastro.pdb
+E:\Curso C#\Praticando C#\Prática cadastro\Prática cadastro\obj\Debug\netcoreapp3.1\Prática cadastro.genruntimeconfig.cache
