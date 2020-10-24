@@ -6,4 +6,8 @@
     <RootNamespace>Prática_cadastro</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Entitites\Enums\" />
+  </ItemGroup>
+
 </Project>
